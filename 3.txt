@@ -1,1 +1,2 @@
 Hi I am the third file to be added
+I am editing this to teach the git commit operation.
