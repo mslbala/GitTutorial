@@ -1,0 +1,2 @@
+Hi I am cloned and this file is added from user2
+I am pulled from user1 and modified 
