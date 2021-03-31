@@ -1,2 +1,3 @@
 Hi I am the third file to be added
 I am editing this to teach the git commit operation.
+Try to push branch changes to master-Edited from master
